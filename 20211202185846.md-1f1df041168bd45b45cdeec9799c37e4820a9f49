@@ -4,7 +4,13 @@ title: test doc
 ---
 key1: value1
 list1:
+<<<<<<< HEAD
+  - item1-change1
+||||||| parent of fb0df91 (Sync)
+  - item1
+=======
   - item1-change2
+>>>>>>> fb0df91 (Sync)
   - item2
 list2:
   - item3
