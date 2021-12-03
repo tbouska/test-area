@@ -4,7 +4,13 @@ title: test doc
 ---
 key1: value1
 list1:
+<<<<<<< HEAD
+  - item1-script
+||||||| faa6c4d
+  - item1
+=======
   - item1-user
+>>>>>>> d94fa7edb622d45741974c7990d681a6c2734360
   - item2
 list2:
   - item3
